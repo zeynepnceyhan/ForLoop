@@ -1,0 +1,15 @@
+C:\Users\zeynep\source\repos\ForLoop\ForLoop\bin\Debug\net6.0\ForLoop.exe
+C:\Users\zeynep\source\repos\ForLoop\ForLoop\bin\Debug\net6.0\ForLoop.deps.json
+C:\Users\zeynep\source\repos\ForLoop\ForLoop\bin\Debug\net6.0\ForLoop.runtimeconfig.json
+C:\Users\zeynep\source\repos\ForLoop\ForLoop\bin\Debug\net6.0\ForLoop.dll
+C:\Users\zeynep\source\repos\ForLoop\ForLoop\bin\Debug\net6.0\ForLoop.pdb
+C:\Users\zeynep\source\repos\ForLoop\ForLoop\obj\Debug\net6.0\ForLoop.csproj.AssemblyReference.cache
+C:\Users\zeynep\source\repos\ForLoop\ForLoop\obj\Debug\net6.0\ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeynep\source\repos\ForLoop\ForLoop\obj\Debug\net6.0\ForLoop.AssemblyInfoInputs.cache
+C:\Users\zeynep\source\repos\ForLoop\ForLoop\obj\Debug\net6.0\ForLoop.AssemblyInfo.cs
+C:\Users\zeynep\source\repos\ForLoop\ForLoop\obj\Debug\net6.0\ForLoop.csproj.CoreCompileInputs.cache
+C:\Users\zeynep\source\repos\ForLoop\ForLoop\obj\Debug\net6.0\ForLoop.dll
+C:\Users\zeynep\source\repos\ForLoop\ForLoop\obj\Debug\net6.0\refint\ForLoop.dll
+C:\Users\zeynep\source\repos\ForLoop\ForLoop\obj\Debug\net6.0\ForLoop.pdb
+C:\Users\zeynep\source\repos\ForLoop\ForLoop\obj\Debug\net6.0\ForLoop.genruntimeconfig.cache
+C:\Users\zeynep\source\repos\ForLoop\ForLoop\obj\Debug\net6.0\ref\ForLoop.dll
